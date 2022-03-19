@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Sanu,NT,3.20,Cement,400.00,3.00,4.80,1200.00,1920.00,9984.00,13104.00
