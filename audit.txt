@@ -1,0 +1,42 @@
+2022-02-22T13:13:13.244386800 : Order100 has been placed!
+2022-02-26T10:24:32.830816200 : Order100 has been placed!
+2022-02-26T10:35:58.602374400 : Order100 has been placed!
+2022-02-26T10:37:41.222141300 : Order100 has been placed!
+2022-02-26T10:38:39.083700 : Order100 has been placed!
+2022-02-26T12:45:37.164767600 : Order0 has been placed!
+2022-02-26T12:56:17.386738700 : Order0 has been placed!
+2022-02-26T12:57:08.933275700 : Order0 has been placed!
+2022-02-26T12:58:05.035029600 : Order0 has been placed!
+2022-03-05T11:31:19.962932200 : Order2 has been placed!
+2022-03-05T11:36:37.565456800 : Order2 has been placed!
+2022-03-05T11:41:31.209515400 : Order2 has been placed!
+2022-03-05T11:48:02.045611700 : Order1 has been placed!
+2022-03-05T11:53:27.191985600 : Order1 has been placed!
+2022-03-05T11:54:09.373713 : Order2 has been placed!
+2022-03-05T12:31:51.291831600 : Order1 has been edited!
+2022-03-05T13:18:58.910985400 : OrderOrder{orderID=1, customerName=Jasmeen Kaur Judge, stateCode=ON, taxRate=6.00, productType=Tile, area=250.00, costPerSqFt=3.50, labourCostPerSqFt=4.15, materialCost=875.0000, labourCost=1037.5000, taxAmount=11475.000000, grandTotal=13387.500000, dueDate=2022-03-08, localDate=null}Removed
+2022-03-05T13:21:46.612898200 : OrderOrder{orderID=1, customerName=Jasmeen Kaur Judge, stateCode=ON, taxRate=6.00, productType=Tile, area=250.00, costPerSqFt=3.50, labourCostPerSqFt=4.15, materialCost=875.0000, labourCost=1037.5000, taxAmount=11475.000000, grandTotal=13387.500000, dueDate=2022-03-08, localDate=null}Removed
+2022-03-05T13:22:53.115795200 : Order3 has been placed!
+2022-03-07T09:30:54.096599700 : Order4 has been placed!
+2022-03-07T09:41:10.809723600 : OrderOrder{orderID=2, customerName=jasmeen kaur, stateCode=BC, taxRate=4.45, productType=Carpet, area=450.00, costPerSqFt=2.25, labourCostPerSqFt=2.10, materialCost=1012.5000, labourCost=945.0000, taxAmount=8710.875000, grandTotal=10668.375000, dueDate=2022-03-08, localDate=null}Removed
+2022-03-07T09:41:25.310081300 : OrderOrder{orderID=3, customerName=Jasmine kaur, stateCode=BC, taxRate=4.45, productType=Carpet, area=600.00, costPerSqFt=2.25, labourCostPerSqFt=2.10, materialCost=1350.0000, labourCost=1260.0000, taxAmount=11614.500000, grandTotal=14224.500000, dueDate=2022-03-08, localDate=null}Removed
+2022-03-07T09:41:41.293643900 : OrderOrder{orderID=4, customerName=jas, stateCode=BC, taxRate=4.45, productType=Carpet, area=100.00, costPerSqFt=2.25, labourCostPerSqFt=2.10, materialCost=225.0000, labourCost=210.0000, taxAmount=1935.750000, grandTotal=2370.750000, dueDate=2022-03-08, localDate=null}Removed
+2022-03-07T09:44:08.157242100 : Order1 has been placed!
+2022-03-07T10:11:17.836594800 : Order2 has been placed!
+2022-03-07T10:24:34.195506100 : Order3 has been placed!
+2022-03-07T10:25:22.770041200 : Order4 has been placed!
+2022-03-07T10:55:11.938352800 : Order2 has been edited!
+2022-03-07T11:34:25.797103800 : Order5 has been placed!
+2022-03-07T11:35:54.090748500 : Order4 has been edited!
+2022-03-07T11:46:33.541702800 : Order1 has been placed!
+2022-03-07T13:42:58.061093200 : Order2 has been placed!
+2022-03-08T08:14:44.438563200 : Order1 has been placed!
+2022-03-08T08:16:14.617723100 : Order1 has been edited!
+2022-03-08T08:17:04.441906600 : OrderOrder{orderID=1, customerName=Ravneet Cheema, stateCode=BC, taxRate=4.45, productType=Wood, area=250.00, costPerSqFt=5.15, labourCostPerSqFt=4.75, materialCost=1287.50, labourCost=1187.50, taxAmount=11013.75, grandTotal=13488.75, dueDate=2022-03-10, localDate=}Removed
+2022-03-08T08:22:59.046474200 : Order1 has been edited!
+2022-03-08T08:32:33.555673800 : Order6 has been placed!
+2022-03-10T20:35:26.691367600 : Order1 has been placed!
+2022-03-10T20:36:01.230128500 : Order1 has been edited!2022-03-18T23:01:55.082802800 : Order1 has been placed!
+2022-03-18T23:07:53.777771100 : Order1 has been edited!
+2022-03-18T23:12:32.365094100 : Order2 has been placed!
+2022-03-18T23:13:52.764533800 : Order1 has been placed!

@@ -1,0 +1,14 @@
+StateCode,State,StateTaxRtae
+BC,British Columbia,4.45
+AB,Alberta,9.25
+ON,Ontario,6.00
+SK,Saskatchewan,25.00
+MB,Manitoba,7.00
+QC,Quebec,2.30
+NB,New Brunswick,2.5
+NS,Nova Scotia,5.00
+PE,Prince Edward Island,4.35
+NL,Newfoundland and Labrador,5.30
+YT,Yukon,3.2
+NT,Northwest Territories,3.2
+NU,Nunavut,4.8

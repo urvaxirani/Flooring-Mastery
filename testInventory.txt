@@ -1,0 +1,11 @@
+ProductType,CostPerSquareFoot,LaborCostPerSquareFoot
+Carpet,2.25,2.10
+Laminate,1.75,2.10
+Tile,3.50,4.15
+Wood,5.15,4.75
+Concrete,1.50,4.50
+Rugs,2.0,3.30
+Plywood,2.4,3.50
+Marble,6.80,7.80
+Cement,3.0,4.80
+Vinyl Tile,5.75,6.82
